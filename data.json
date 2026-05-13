@@ -1,1 +1,26 @@
-[{"id":"b579f904-01b8-4e91-8136-ec047a6a6898","name":"Laptop Dell","price":45000,"quantity":12},{"id":"77b05fc3-b40d-4464-a565-7616f6f4ad74","name":"Iphone 17","price":3900000,"quantity":12},{"id":"659a74d8-c1d0-4f27-9350-d6314d45387b","name":"Car ","price":29000000,"quantity":12}]
+[
+  {
+    "id": "b579f904-01b8-4e91-8136-ec047a6a6898",
+    "name": "Laptop Dell",
+    "price": 45000,
+    "quantity": 12
+  },
+  {
+    "id": "77b05fc3-b40d-4464-a565-7616f6f4ad74",
+    "name": "Iphone 17",
+    "price": 3900000,
+    "quantity": 12
+  },
+  {
+    "id": "4bc1d264-7214-4b73-a95a-08c8a45c60e4",
+    "name": "Gaming Laptop",
+    "price": 500,
+    "quantity": 7
+  },
+  {
+    "id": "67faf4a6-9f12-468c-bc76-50418b2c3cdb",
+    "name": "Gaming Mouse",
+    "price": 500,
+    "quantity": 7
+  }
+]
